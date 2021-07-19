@@ -1,11 +1,13 @@
 {
-  "name": "jsonresume-theme-stackoverflow-FA5",
+  "name": "@jiayicox/jsonresume-theme-stackoverflow-FA5",
   "version": "1.4.0",
   "description": "Stack Overflow theme for JSON Resume",
-  "author": "Francesco Esposito <http://fran.cesco.io>",
+  "author": "Jiayi Cox",
+  "publishConfig": {
+    "@wusixer:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/francescoes/jsonresume-theme-stackoverflow"
+    "type": "git"
   },
   "license": "MIT",
   "main": "index.js",
