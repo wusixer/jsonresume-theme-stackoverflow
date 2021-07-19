@@ -3,6 +3,15 @@
 * 	http://meyerweb.com/eric/tools/css/reset/
 *******************************************/
 
+#header {
+    position: sticky;
+    top: -1px;
+    z-index: 100;
+    background-color: white;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
 html,
 body,
 div,
@@ -355,8 +364,8 @@ section .location {
 .institution,
 .organization,
 .awarder {
-  color: #606d76;
-  font-weight: 400;
+  color: darkgoldenrod;
+  font-weight: bold;
 }
 
 .section header .date {

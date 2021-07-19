@@ -1,6 +1,6 @@
 {
   "name": "@wusixer/jsonresume-theme-stackoverflow",
-  "version": "1.0.2--jiayi",
+  "version": "1.0.4--jiayi",
   "description": "Stack Overflow theme for JSON Resume",
   "author": "Jiayi Cox",
   "publishConfig": {
