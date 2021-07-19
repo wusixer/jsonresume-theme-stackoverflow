@@ -66,6 +66,12 @@
       </span>
       {{/location}}
 
+      {{#if mentor}}
+      <div>
+        {{mentor.name}}
+      </div>
+      {{/if}}
+
       {{#if courses.length}}
       <ul class="courses">
         {{#each courses}}
