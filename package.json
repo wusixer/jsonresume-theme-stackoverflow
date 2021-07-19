@@ -1,13 +1,14 @@
 {
-  "name": "@wusixer/jsonresume-theme-stackoverflow-FA5",
-  "version": "1.0.0--jiayi",
+  "name": "@wusixer/jsonresume-theme-stackoverflow",
+  "version": "1.0.1--jiayi",
   "description": "Stack Overflow theme for JSON Resume",
   "author": "Jiayi Cox",
   "publishConfig": {
     "@wusixer:registry": "https://npm.pkg.github.com"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/wusixer/jsonresume-theme-stackoverflow"
   },
   "license": "MIT",
   "main": "index.js",
